@@ -1,4 +1,4 @@
----
+-edina82/docs--
 title: Configuring pull request merges
 intro: 'You can configure pull request merges on {% data variables.location.product_location %} to match your workflow and preferences for managing Git history.'
 redirect_from:
